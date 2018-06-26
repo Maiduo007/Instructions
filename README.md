@@ -44,3 +44,11 @@ npm install
 数据库初始化： `npm init_sql`
 
 启动：`npm run dev`
+
+输入管理员用户名密码登陆
+账号：admin
+密码：admin
+
+
+未完成功能：
+* 管理员导入实验、老师、学生等信息，目前都是模拟数据
